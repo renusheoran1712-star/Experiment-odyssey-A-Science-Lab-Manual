@@ -1,2 +1,2 @@
-# Experiment-odyssey-A-Science-Lab-Manual
+index.html
 Interactive Experiment Odyssey Lab Manual
